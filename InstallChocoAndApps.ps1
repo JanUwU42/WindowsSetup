@@ -5,7 +5,7 @@
 
 # Install Apps
     # List of applications to install
-    $apps = @("firefox", "discord", "spotify", "spicetify-cli", "wezterm", "winfetch", "vscodium", "vlc", "libreoffice-fresh", "brave", "translucenttb", "powertoys")
+    $apps = @("firefox", "discord", "spotify", "spicetify-cli", "wezterm", "winfetch", "vscodium", "vlc", "libreoffice-fresh", "brave", "translucenttb", "powertoys", "gsudo")
 
     # Install each app
     foreach ($app in $apps) {
